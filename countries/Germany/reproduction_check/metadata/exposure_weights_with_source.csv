@@ -1,0 +1,13 @@
+category,n_subitems,years_used,source,energy_intensity,contact_intensity,durable_intensity,discretionary_intensity
+alcohol_tobacco,1,30,measured,0.0,0.0,0.0,1.0
+clothing_footwear,2,30,measured,0.0,0.0,0.0,1.0
+communication,3,30,measured,0.0,0.0,0.3892380095441601,0.3984215572748021
+education,5,30,measured,0.0,1.0,0.0,0.0
+food_nonalc,2,30,measured,0.0,0.0,0.0,0.0
+health,4,30,measured,0.0,0.6504888832275253,0.0,0.0
+household_goods,6,30,measured,0.0,0.1502268809268488,0.6876604918768309,1.0
+housing_utilities,5,30,measured,0.17362944572937625,0.03799873561654194,0.0,0.0
+miscellaneous,6,30,measured,0.0,0.3728702881605888,0.0,0.27081885435739605
+recreation_culture,8,30,measured,0.0,0.4961376532976044,0.052670186417364456,1.0
+restaurants_hotels,2,30,measured,0.0,1.0,0.0,1.0
+transport,4,30,measured,0.5468351136419276,0.15312438811203863,0.28150887086450926,0.28150887086450926

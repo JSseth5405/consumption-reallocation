@@ -1,0 +1,7 @@
+country,candidate,quarters,tested_on,quiet_sd
+Canada,ice_storm_1998,1998Q1,aggregate,0.36
+France,vat_1995,1995Q3,aggregate,0.35
+France,strikes_1995,1995Q4,aggregate,0.47
+France,balladurette,1994Q1-1995Q2,category transport,0.43
+France,juppette,1995Q4-1996Q4,category transport,0.4
+Italy,eurotax_1997,1997Q1-1997Q4,aggregate (excl. transport),0.87

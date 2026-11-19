@@ -1,0 +1,9 @@
+country,file,sha256,bytes,reproduced_by
+USA,USA/data/final/usa_quarterly_category_panel.csv,5e1b05ec87e8210b5bdcec05aee6db5f13e083ef4a595c21ad1a4678ab8e20d1,801017,USA_Consumption_Shock_Analysis (python run_usa.py; python verify.py --all)
+UK,UK/data/final/uk_quarterly_category_panel.csv,09bbb43d8ddf36d65dbceb73d0e0a05aab0959b78304acd68f44307377fec36a,451642,UK_Consumption_Shock_Analysis (python run_uk.py; python verify.py --all)
+Japan,Japan/data/final/japan_quarterly_category_panel.csv,5199bfc765509b8c3e1daa110d6025a78d0c8f14ea01208c7d2c18d5cd96c172,319420,Japan_Consumption_Shock_Analysis (python run_japan.py; python verify.py --all)
+India,India/data/final/india_quarterly_category_panel.csv,230e452938cd2574b0af7623184bff7b0e4bf1cc7271840c0f4ffc7e08f4aae8,298508,India_Consumption_Shock_Analysis (python run_india_q.py; python verify.py --all)
+Germany,Germany/data/final/germany_quarterly_category_panel.csv,4fb5bec3d8bf9744deda3fe627b4ab3f313d1828913bd07c40d80701a3db48f5,360762,Germany_Consumption_Shock_Analysis (python run_germany.py; python verify.py --all)
+France,France/data/final/france_quarterly_category_panel.csv,8097ba08279f69e2799e9ec5fc086ef5783375ed9c8f22ac221810f867f33b2c,553430,this package: python countries/build_eurostat_country.py FR france
+Italy,Italy/data/final/italy_quarterly_category_panel.csv,1e0ae47fc43a749e6a0cbb8e1f672e39811cda0180c01dda705bd66722ef40bd,370181,this package: python countries/build_eurostat_country.py IT italy
+Canada,Canada/data/final/canada_quarterly_category_panel.csv,0d7b1ad09bc712c29ee15d1f83fbad12b800007815233bde2e7ded0c01b81275,504416,this package: python countries/build_canada.py

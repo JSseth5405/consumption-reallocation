@@ -1,0 +1,9 @@
+country,data_source,categories_published,full_timeline,full_quarters,common_quarters,categories,first_quarter_with_4q_growth,rows_without_4q_growth_full,rows_without_4q_growth_common,missing_shares_common,max_weight_sum_error,max_reconciliation_error_pc,time_cluster_individual
+USA,BEA NIPA 2.3/2.4,quarterly,1959Q1-2021Q4,252,91,12,1960Q1,48,0,0,6.661338147750939e-16,,quarter
+UK,ONS Consumer Trends,quarterly,1985Q1-2021Q4,148,91,12,1986Q1,48,0,0,7.771561172376096e-16,,quarter
+Japan,ESRI SNA table 12,quarterly,1994Q1-2021Q4,112,91,12,1995Q1,48,0,0,7.771561172376096e-16,,quarter
+Canada,Statistics Canada 36-10-0124-01,quarterly,1981Q1-2021Q4,164,91,12,1982Q1,48,0,0,7.771561172376096e-16,0.0,quarter
+Germany,Destatis via Eurostat,"annual, benchmarked",1995Q1-2021Q4,108,91,12,1996Q1,48,0,0,8.881784197001252e-16,,calendar year
+France,INSEE via Eurostat,"annual, benchmarked",1980Q1-2021Q4,168,91,12,1981Q1,48,0,0,7.771561172376096e-16,0.000326834590651,calendar year
+Italy,ISTAT via Eurostat,"annual, benchmarked",1996Q1-2021Q4,104,91,12,1997Q1,48,0,0,8.881784197001252e-16,5.617868115118185e-05,calendar year
+India,MoSPI,"annual, benchmarked",1999Q2-2021Q4,91,91,12,2000Q2,48,48,0,8.881784197001252e-16,,financial year

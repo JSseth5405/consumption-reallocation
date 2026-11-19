@@ -1,0 +1,16 @@
+country,timeline,window,core_settled,core_supported,clean_settled,clean_supported,mechanism_settled,mechanism_supported,extended_settled,extended_supported
+USA,full,1959Q1-2021Q4,3,3,3,3,3,3,3,3
+USA,matched,1999Q2-2021Q4,3,3,3,3,3,3,3,3
+UK,full,1985Q1-2021Q4,4,4,4,4,4,4,4,4
+UK,matched,1999Q2-2021Q4,4,4,4,4,4,4,4,4
+Japan,full,1994Q1-2021Q4,3,3,3,3,2,2,3,3
+Japan,matched,1999Q2-2021Q4,3,3,3,3,2,2,3,3
+Canada,full,1981Q1-2021Q4,3,3,4,4,4,4,4,4
+Canada,matched,1999Q2-2021Q4,4,4,4,4,4,4,4,4
+Germany,full,1995Q1-2021Q4,4,4,4,4,4,4,4,4
+Germany,matched,1999Q2-2021Q4,4,4,4,4,4,4,4,4
+France,full,1980Q1-2021Q4,3,3,3,3,3,3,3,3
+France,matched,1999Q2-2021Q4,3,3,2,2,1,1,2,2
+Italy,full,1996Q1-2021Q4,3,3,3,3,3,3,3,3
+Italy,matched,1999Q2-2021Q4,3,3,3,3,3,3,3,3
+India,matched,1999Q2-2021Q4,4,4,4,4,4,4,4,4

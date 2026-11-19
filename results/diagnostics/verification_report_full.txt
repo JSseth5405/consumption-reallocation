@@ -1,0 +1,68 @@
+environment
+  pandas       3.0.3
+  numpy        2.4.4
+  scipy        1.18.0
+  statsmodels  0.14.6
+  matplotlib   3.11.0
+  reportlab    5.0.1
+  pillow       12.2.0
+
+inputs
+  USA/data/final/usa_quarterly_category_panel.csv      OK
+  UK/data/final/uk_quarterly_category_panel.csv        OK
+  Japan/data/final/japan_quarterly_category_panel.csv  OK
+  India/data/final/india_quarterly_category_panel.csv  OK
+  Germany/data/final/germany_quarterly_category_panel.csv OK
+  France/data/final/france_quarterly_category_panel.csv OK
+  Italy/data/final/italy_quarterly_category_panel.csv  OK
+  Canada/data/final/canada_quarterly_category_panel.csv OK
+
+data
+  8 countries x 12 divisions x 91 quarters, 1999Q2-2021Q4
+  within-country weights sum to 1.000000000 - 1.000000000
+  France  divisions vs published total: max deviation 0.000327%
+  Italy   divisions vs published total: max deviation 0.000056%
+  Canada  divisions vs published total: max deviation 0.000000%
+  resilience index: 24 country-shocks, min components 3
+
+algorithm
+  fast bootstrap vs reference routine: coefficient 2.8e-14, contrast 9.9e-14
+
+placebo identity (fast projection vs full re-fits)
+  placebo identity: fast FWL coefficients vs full re-fits, worst gap 3.59e-12
+
+regression check (France/Italy pipeline on frozen German data)
+  1440 rows compared, worst difference 0.0e+00
+
+results (full re-estimation of everything, compared with the shipped files)
+  results/tables/individual_results.csv                              reproduces exactly
+  results/tables/individual_counts_by_spec.csv                       reproduces exactly
+  results/tables/individual_core_vs_clean_changes.csv                reproduces exactly
+  results/tables/individual_results_combined.csv                     reproduces exactly
+  results/tables/individual_combined_counts_by_spec.csv              reproduces exactly
+  results/tables/pooled_results.csv                                  reproduces exactly
+  results/tables/per_country_results.csv                             reproduces exactly
+  results/tables/h5_by_component.csv                                 reproduces exactly
+  results/tables/h5_meta_regression.csv                              reproduces exactly
+  results/tables/robustness_quarterly_observed.csv                   reproduces exactly
+  results/tables/figure_data_1_consumption_paths.csv                 reproduces exactly
+  results/tables/figure_data_2_reallocation.csv                      reproduces exactly
+  results/tables/figure_data_3_recovery_gaps.csv                     reproduces exactly
+  results/diagnostics/data_coverage.csv                              reproduces exactly
+  results/diagnostics/exposure_concentration.csv                     reproduces exactly
+  results/diagnostics/placebo_distributions_pooled.csv               reproduces exactly
+  results/diagnostics/h4_placebo_rule_comparison.csv                 reproduces exactly
+  data/resilience/resilience_index.csv                               reproduces exactly
+  data/all_countries_pooled_analysis_data.csv                        reproduces exactly
+  data/data_dictionary.csv                                           reproduces exactly
+  countries/USA/usa_analysis_data.csv                                reproduces exactly
+  countries/UK/uk_analysis_data.csv                                  reproduces exactly
+  countries/Japan/japan_analysis_data.csv                            reproduces exactly
+  countries/Canada/canada_analysis_data.csv                          reproduces exactly
+  countries/Germany/germany_analysis_data.csv                        reproduces exactly
+  countries/France/france_analysis_data.csv                          reproduces exactly
+  countries/Italy/italy_analysis_data.csv                            reproduces exactly
+  countries/India/india_analysis_data.csv                            reproduces exactly
+
+============================================================
+VERIFICATION PASSED - every published number reproduces exactly.

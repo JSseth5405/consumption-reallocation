@@ -1,0 +1,98 @@
+country,event,start,end,type,scope,categories,context,description,source,tier
+USA,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001 and the immediate collapse in travel and confidence,IMF Public Information Notice 02/81 (US Article IV 2002),primary
+USA,tax_rebate_2001,2001Q3,2001Q3,M,aggregate,,dotcom,EGTRRA advance tax rebate cheques mailed July-September 2001,IMF Public Information Notice 02/81,primary
+USA,auto_incentives_2001,2001Q4,2001Q4,M,category,transport,dotcom,Zero-percent financing and manufacturer incentives launched after 9/11,IMF Public Information Notice 02/81,primary
+USA,tax_rebate_2008,2008Q2,2008Q3,M,aggregate,,gfc,Economic Stimulus Act 2008 rebate payments May-July 2008,IMF United States Article IV staff reports 2008-2010,primary
+USA,arra_2009,2009Q2,2010Q4,M,aggregate,,gfc,American Recovery and Reinvestment Act transfers and tax credits,IMF United States Article IV staff reports 2009-2010,primary
+USA,cash_for_clunkers,2009Q3,2009Q3,M,category,transport,gfc,CARS vehicle-scrappage programme July-August 2009,Mian and Sufi (2012) Quarterly Journal of Economics 127(3),primary
+USA,cares_act_2020,2020Q2,2020Q3,M,aggregate,,covid,CARES Act Economic Impact Payments and enhanced unemployment insurance,IMF Country Report 20/241 (US Article IV 2020),primary
+USA,covid_relief_2021,2021Q1,2021Q2,M,aggregate,,covid,December-2020 relief payments (Jan 2021) and American Rescue Plan (Mar 2021),US Treasury; IMF United States Article IV staff report 2021,primary
+UK,foot_and_mouth_2001,2001Q1,2001Q3,C,category,restaurants_hotels;recreation_culture;transport,dotcom,Foot-and-mouth disease outbreak 20 Feb-30 Sep 2001 closing countryside tourism,ONS tourism satellite account methodology; DEFRA outbreak chronology,primary
+UK,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001 (travel and confidence),IMF United Kingdom Article IV staff report 2002,primary
+UK,vat_cut_2008,2008Q4,2009Q4,M,aggregate,,gfc,Temporary VAT cut 17.5% to 15% from 1 Dec 2008 to 31 Dec 2009,IFS (2010) Household consumption through recent recessions,primary
+UK,car_scrappage_uk,2009Q2,2010Q1,M,category,transport,gfc,Vehicle Scrappage Scheme May 2009-March 2010,IFS (2010) Household consumption through recent recessions,primary
+UK,vat_2010_restore,2009Q4,2010Q1,C,aggregate,,none,VAT restored to 17.5% on 1 Jan 2010 (pull-forward then payback),UK chapter protocol (declared disturbance),primary
+UK,vat_2011_rise,2010Q4,2011Q1,C,aggregate,,none,VAT raised to 20% on 4 Jan 2011,UK chapter protocol (declared disturbance),primary
+UK,brexit_referendum,2016Q2,2016Q3,C,aggregate,,none,EU referendum 23 June 2016 and sterling depreciation,UK chapter protocol (declared disturbance),primary
+UK,furlough_2020,2020Q2,2021Q3,M,aggregate,,covid,Coronavirus Job Retention Scheme March 2020-September 2021,HM Treasury; IMF United Kingdom Article IV staff report 2021,primary
+UK,eat_out_to_help_out,2020Q3,2020Q3,M,category,restaurants_hotels,covid,Eat Out to Help Out restaurant subsidy August 2020,HM Treasury,primary
+UK,hospitality_vat_cut,2020Q3,2021Q3,M,category,restaurants_hotels,covid,Hospitality VAT cut to 5% July 2020-September 2021,HM Treasury,primary
+UK,brexit_transition_end,2021Q1,2021Q1,C,aggregate,,covid,End of the EU transition period 31 Dec 2020 and trade disruption,ONS; HM Government,primary
+Germany,tax_reform_2001,2001Q1,2001Q4,C,aggregate,,dotcom,Steuerreform 2000 income-tax cuts effective 1 Jan 2001 (legislated July 2000),IMF Country Report 01/202 (Germany Article IV 2001),primary
+Germany,euro_changeover,2002Q1,2002Q4,C,aggregate,,dotcom,Euro cash changeover 1 Jan 2002 and perceived-inflation shock,IMF Country Report 04/346; ECB Monthly Bulletin Jan 2003,primary
+Germany,floods_2002,2002Q3,2002Q3,X,aggregate,,dotcom,Elbe and Danube floods August 2002,Deutsche Bundesbank Monthly Report; Munich Re NatCatSERVICE,primary
+Germany,vat_2007_rise,2006Q4,2007Q1,C,aggregate,,none,VAT 16% to 19% on 1 Jan 2007,Germany chapter protocol; Deutsche Bundesbank Monthly Report April 2008,primary
+Germany,kurzarbeit_2009,2009Q1,2010Q2,M,aggregate,,gfc,Expanded short-time work (Kurzarbeit) and Konjunkturpakete I-II fiscal stimulus 2009-10,IMF Country Report 10/85 (Germany Article IV 2010),primary
+Germany,abwrackpraemie,2009Q1,2009Q3,M,category,transport,gfc,Umweltpraemie EUR 2500 car-scrappage scheme Jan-Sep 2009,IMF Country Report 10/85,primary
+Germany,flood_2013,2013Q2,2013Q3,C,aggregate,,none,Elbe and Danube floods June 2013,Germany chapter protocol (declared disturbance),primary
+Germany,oil_collapse_2015,2014Q4,2015Q2,C,aggregate,,none,2014-15 crude-oil price collapse (minimum wage 1 Jan 2015 inside),Germany chapter protocol (declared disturbance),primary
+Germany,refugee_influx_2015,2015Q3,2016Q2,C,aggregate,,none,Refugee influx peak September 2015-March 2016,Germany chapter protocol (declared disturbance),primary
+Germany,wltp_2018,2018Q3,2018Q4,C,category,transport,pre_covid,WLTP emissions-test certification backlog cutting car registrations from Sep 2018,IMF Country Report 19/213 (Germany Article IV 2019),primary
+Germany,kurzarbeit_2020,2020Q2,2021Q4,M,aggregate,,covid,Short-time work during COVID-19,Bundesagentur fuer Arbeit; IMF Germany Article IV staff report 2021,primary
+Germany,vat_cut_2020,2020Q3,2020Q4,M,aggregate,,covid,Temporary VAT cut 19% to 16% July-December 2020 and Kinderbonus child bonus Sep-Oct 2020,Bundesministerium der Finanzen,primary
+France,euro_changeover,2002Q1,2002Q4,C,aggregate,,dotcom,Euro cash changeover and perceived inflation (IMF: about -0.9pp consumption in 2002),IMF Country Report 04/346 (France Selected Issues),primary
+France,prime_a_la_casse,2009Q1,2010Q4,M,category,transport,gfc,Prime a la casse car-scrappage scheme Dec 2008-Dec 2010,IMF Country Report 10/240 (France Article IV 2010),primary
+France,rail_strikes_2018,2018Q2,2018Q2,C,category,transport,pre_covid,SNCF rail strikes April-June 2018,IMF Country Report 19/245 (France Article IV 2019),primary
+France,yellow_vests,2018Q4,2019Q1,C,aggregate,,pre_covid,Gilets jaunes protests from 17 Nov 2018,IMF Country Report 19/245,primary
+France,pension_strike_2019,2019Q4,2020Q1,C,aggregate,,pre_covid,Nationwide pension-reform transport strike 5 Dec 2019-Jan 2020,INSEE Note de conjoncture March 2020,primary
+France,activite_partielle_2020,2020Q2,2021Q2,M,aggregate,,covid,Activite partielle short-time work scheme during COVID-19,DARES; IMF France Article IV staff report 2021,primary
+Italy,euro_changeover,2002Q1,2002Q4,C,aggregate,,dotcom,Euro cash changeover and perceived inflation,Banca d'Italia; ECB Monthly Bulletin January 2003,primary
+Italy,argentina_default,2002Q1,2002Q2,C,aggregate,,dotcom,Argentine sovereign default Dec 2001 hitting Italian retail bondholders,IMF (2003) review of the Argentine crisis; Banca d'Italia,primary
+Italy,cig_2009,2009Q1,2010Q4,M,aggregate,,gfc,Cassa Integrazione Guadagni wage-support expansion,IMF Italy Article IV concluding statement 2010; INPS,primary
+Italy,sovereign_crisis_2011,2011Q3,2013Q2,X,aggregate,,gfc,Euro-area sovereign-debt crisis and Italian double-dip recession with fiscal consolidation,IMF Country Report 12/167 (Italy Article IV 2012),primary
+Italy,cig_2020,2020Q2,2021Q4,M,aggregate,,covid,Cassa Integrazione and firing ban during COVID-19,INPS; IMF Italy Article IV staff report 2021,primary
+Japan,appliance_recycling_law,2001Q1,2001Q2,C,category,household_goods,dotcom,Home Appliance Recycling Law in force 1 Apr 2001 (purchases brought forward then payback),IMF Public Information Notice 01/85 (Japan Article IV 2001),primary
+Japan,eco_car_subsidy,2009Q2,2010Q3,M,category,transport,gfc,Eco-car purchase subsidy April 2009-September 2010,Bank of Japan Outlook Report 2009-10,primary
+Japan,eco_points,2009Q2,2011Q1,M,category,household_goods,gfc,Eco-point scheme for energy-efficient appliances May 2009-March 2011,Bank of Japan Outlook Report 2009-10,primary
+Japan,eco_subsidy_expiry,2010Q3,2010Q4,C,aggregate,,none,Expiry of eco-car subsidy and eco-points (payback),Japan chapter protocol (declared disturbance),primary
+Japan,tohoku_2011,2011Q1,2011Q2,X,aggregate,,gfc,Great East Japan Earthquake and tsunami 11 Mar 2011,IMF Country Report 11/181 (Japan Article IV 2011),primary
+Japan,tax_2014,2014Q1,2014Q2,C,aggregate,,none,Consumption tax 5% to 8% on 1 Apr 2014,Japan chapter protocol (declared disturbance),primary
+Japan,tax_2019,2019Q3,2019Q4,C,aggregate,,pre_covid,Consumption tax 8% to 10% on 1 Oct 2019 (plus Typhoon Hagibis Oct 2019),IMF Country Report 20/39 (Japan Article IV 2020),primary
+Japan,special_cash_payment_2020,2020Q2,2020Q3,M,aggregate,,covid,Special Cash Payment of JPY 100000 per resident,Ministry of Internal Affairs and Communications,primary
+Japan,go_to_travel,2020Q3,2020Q4,M,category,restaurants_hotels;recreation_culture;transport,covid,Go To Travel domestic tourism subsidy July-December 2020,Japan Tourism Agency,primary
+Canada,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001 (cross-border and travel disruption),Bank of Canada Monetary Policy Report 2002,primary
+Canada,sars_bse_blackout_2003,2003Q2,2003Q3,X,aggregate,,dotcom,SARS outbreak in Toronto (Mar-Jul 2003) BSE case (May 2003) and Ontario blackout (Aug 2003),Bank of Canada Monetary Policy Report October 2003,primary
+Canada,stimulus_2009,2009Q2,2010Q1,M,aggregate,,gfc,Economic Action Plan incl. Home Renovation Tax Credit,IMF Country Report 10/377 (Canada Article IV 2010),primary
+Canada,hst_2010,2010Q2,2010Q3,C,aggregate,,none,Harmonized Sales Tax introduced in Ontario and British Columbia 1 Jul 2010,IMF Country Report 10/377,primary
+Canada,oil_collapse_2020,2020Q1,2020Q2,C,aggregate,,covid,2020 oil-price collapse hitting producing provinces,Bank of Canada Monetary Policy Report April 2020,primary
+Canada,cerb_2020,2020Q2,2020Q3,M,aggregate,,covid,Canada Emergency Response Benefit April-September 2020,Statistics Canada The Daily 2 March 2021,primary
+India,gujarat_earthquake,2001Q1,2001Q1,C,aggregate,,dotcom,Gujarat (Bhuj) earthquake 26 Jan 2001,IMF Public Information Notice 01/88 (India Article IV 2001),primary
+India,petroleum_apm_2002,2002Q2,2002Q3,C,category,transport;housing_utilities,dotcom,Dismantling of the Administered Pricing Mechanism for petroleum 1 Apr 2002,Ministry of Petroleum and Natural Gas; IMF India Article IV staff report 2003,primary
+India,drought_2002,2002Q3,2003Q1,C,aggregate,,dotcom,2002 monsoon failure (rainfall about 19% below normal),India Meteorological Department; RBI Annual Report 2002-03,primary
+India,fiscal_support_2008,2008Q3,2009Q4,M,aggregate,,gfc,Sixth Pay Commission arrears and farm loan waiver and CENVAT and service-tax cuts,RBI Annual Report 2008-09,primary
+India,drought_2009,2009Q3,2010Q1,C,aggregate,,gfc,2009 monsoon failure (rainfall about 22% below normal),RBI Annual Report 2009-10; India Meteorological Department,primary
+India,demonetisation,2016Q4,2017Q1,C,aggregate,,none,Withdrawal of Rs 500 and Rs 1000 notes 8 Nov 2016,India chapter protocol (declared disturbance),primary
+India,gst_2017,2017Q2,2017Q3,C,aggregate,,none,Goods and Services Tax introduced 1 Jul 2017,India chapter protocol (declared disturbance),primary
+India,nbfc_stress_2018,2018Q4,2019Q3,C,aggregate,,pre_covid,IL&FS default Sep 2018 and NBFC credit stress,RBI Financial Stability Report 2019; IMF India Article IV staff report 2019,primary
+India,covid_support_2020,2020Q2,2020Q4,M,aggregate,,covid,PMGKAY free grain and cash transfers and MGNREGA expansion,Ministry of Finance (PMGKY); IMF India Article IV staff report 2021,primary
+USA,oil_1973,1973Q4,1975Q1,C,aggregate,,none,First OPEC oil embargo and 1973-75 recession,USA chapter protocol (declared disturbance),primary
+USA,oil_1979,1979Q2,1980Q1,C,aggregate,,none,Second oil shock (Iranian revolution),USA chapter protocol (declared disturbance),primary
+USA,credit_controls_1980,1980Q2,1980Q3,C,aggregate,,none,Carter Credit Restraint Program March-July 1980,USA chapter protocol (declared disturbance),primary
+USA,volcker_1981,1981Q3,1982Q4,C,aggregate,,none,Volcker disinflation recession 1981-82,USA chapter protocol (declared disturbance),primary
+UK,recession_1990,1990Q3,1991Q3,C,aggregate,,none,Early-1990s recession (five consecutive quarters of falling consumption),UK chapter protocol (declared disturbance),primary
+UK,erm_exit_1992,1992Q3,1992Q4,C,aggregate,,none,Sterling's exit from the Exchange Rate Mechanism 16 Sep 1992,UK chapter protocol (declared disturbance),primary
+Japan,tax_1997,1997Q1,1997Q2,C,aggregate,,none,Consumption tax 3% to 5% on 1 Apr 1997,Japan chapter protocol (declared disturbance),primary
+Canada,recession_1982,1981Q3,1982Q4,C,aggregate,,none,1981-82 recession (3.18 quiet SD on four-quarter growth),Statistics Canada; C.D. Howe Institute Business Cycle Council,primary
+Canada,recession_gst_1990,1990Q2,1991Q2,C,aggregate,,none,1990-91 recession and GST introduced 1 Jan 1991 (2.19 quiet SD),Statistics Canada; Library of Parliament PRB 00-03E (GST: 10 Years Later),primary
+France,rigueur_1983,1983Q2,1984Q1,C,aggregate,,none,Tournant de la rigueur austerity programme March 1983 (1.11 quiet SD),INSEE comptes nationaux; Banque de France,primary
+France,recession_1993,1992Q4,1993Q3,C,aggregate,,none,1992-93 recession (1.54 quiet SD),INSEE comptes nationaux; OECD Economic Survey of France 1994,primary
+Italy,rottamazione_1997,1997Q1,1997Q3,C,category,transport,none,Incentivi alla rottamazione car-scrappage scheme 1997 (2.77 quiet SD on transport),Italian Budget Law 1997; Garrone (2004),primary
+Italy,ecoincentivi_1998,1998Q1,1998Q3,C,category,transport,none,Eco-incentive car-scrappage scheme 1 Feb-31 Jul 1998 (1.15 quiet SD on transport),Ministero dell'Industria decree 1998; Garrone (2004),primary
+France,work_week_35h,2000Q1,2002Q4,S,aggregate,,dotcom,"35-hour working week (Aubry laws: firms >20 staff Feb 2000, smaller firms 2002) and associated wage/work-cost regime",IMF France Article IV staff reports 2000-2002,primary
+Japan,npl_deflation_regime,1998Q1,2005Q4,S,aggregate,,dotcom,Banking non-performing-loan crisis and deflation regime from the 1997-98 banking crisis to the completion of NPL disposal,IMF Japan Article IV staff reports 1999-2005; Bank of Japan,primary
+UK,post_referendum_regime,2016Q4,2019Q4,S,aggregate,,pre_covid,Post-referendum sterling and real-income regime (after the referendum pulse dummy),IMF United Kingdom Article IV concluding statement 2018,primary
+Italy,stagnation_2018_19,2018Q2,2019Q4,S,aggregate,,pre_covid,2018-19 stagnation with elevated sovereign spreads and policy uncertainty,IMF Italy Article IV concluding statement 2019,primary
+France,household_support_2009,2009Q2,2009Q4,M,aggregate,,gfc,"Household support measures 2009 (prime de solidarite active, income-tax cut for low earners)",IMF Country Report 10/240 (France Article IV 2010),primary
+Japan,teigaku_kyufukin_2009,2009Q2,2009Q2,M,aggregate,,gfc,Teigaku Kyufukin fixed cash handout (JPY 12000 per person) spring 2009,Ministry of Internal Affairs and Communications; Bank of Japan,primary
+Canada,cews_2020,2020Q2,2021Q3,M,aggregate,,covid,Canada Emergency Wage Subsidy March 2020-October 2021,Department of Finance Canada; Statistics Canada,primary
+USA,enron_worldcom,2001Q4,2002Q3,C,aggregate,,dotcom,Enron (Dec 2001) and WorldCom (Jun 2002) accounting scandals and confidence shock,IMF Public Information Notice 02/81,secondary
+Canada,enron_worldcom,2001Q4,2002Q3,C,aggregate,,dotcom,Enron/WorldCom confidence shock,Bank of Canada Monetary Policy Report 2002,secondary
+UK,golden_jubilee,2002Q2,2002Q2,C,aggregate,,dotcom,Golden Jubilee extra bank holiday June 2002,ONS,secondary
+Germany,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001,IMF Germany Article IV staff report 2002,secondary
+France,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001,IMF France Article IV staff report 2002,secondary
+Italy,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001,IMF Italy Article IV staff report 2002,secondary
+Japan,september_11,2001Q3,2001Q4,C,aggregate,,dotcom,Terrorist attacks of 11 September 2001 and the global electronics slump,IMF Public Information Notice 01/85,secondary
+India,border_tensions_2002,2001Q4,2002Q3,C,aggregate,,dotcom,India-Pakistan military standoff (Operation Parakram) Dec 2001-Oct 2002,IMF India Article IV staff report 2002,secondary
+India,gujarat_riots_2002,2002Q1,2002Q1,C,aggregate,,dotcom,Communal violence in Gujarat Feb-Mar 2002,IMF India Article IV staff report 2002,secondary
+Italy,laquila_2009,2009Q2,2009Q2,C,aggregate,,gfc,L'Aquila earthquake 6 April 2009,Banca d'Italia,secondary
+Germany,rhine_low_water_2018,2018Q3,2018Q4,C,category,transport;housing_utilities,pre_covid,Rhine low water raising fuel and heating-oil prices autumn 2018,IMF Country Report 19/213 (Germany Article IV 2019),secondary

@@ -1,0 +1,13 @@
+,durable,semi_durable,non_durable,services
+alcohol_tobacco,0.004183,0.0,0.995817,0.0
+clothing_footwear,0.018443,0.975543,0.006014,0.0
+communication,0.331702,0.001449,0.0,0.666849
+education,0.0,0.0,0.0,1.0
+food_nonalc,0.013834,0.0,0.986166,0.0
+health,0.0,0.000626,0.372844,0.62653
+household_goods,0.540001,0.224587,0.018796,0.216616
+housing_utilities,0.0,0.011785,0.0692,0.919015
+miscellaneous,0.024484,0.099179,0.179331,0.697006
+recreation_culture,0.115068,0.366514,0.129453,0.388966
+restaurants_hotels,0.0,0.0,0.0,1.0
+transport,0.31096,0.009489,0.560124,0.119426
